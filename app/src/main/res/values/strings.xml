@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group_FinalProject</string>
+
+    <string-array name="select_report">
+        <item>All</item>
+        <item>Accident</item>
+        <item>Criminal</item>
+        <item>Infrastructure</item>
+        <item>Environment</item>
+    </string-array>
+
+</resources>
